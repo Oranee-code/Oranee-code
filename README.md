@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Oranee Full-Stack devoloper based in Wellington, New Zealand 🇳🇿
 
 <!--
 **Oranee-code/Oranee-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
