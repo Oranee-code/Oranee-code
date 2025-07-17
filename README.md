@@ -16,7 +16,7 @@ Where I discovered how much I enjoy building creative and user-friendly web appl
 
 •	Tools: Auth0, GitHub, RESTful APIs, Vite, Vitest
 
-•	Currently Learning: Computer Science fundamentals, Framer Motion, Introduction to AI, React Three Fiber, Three.js
+•	Currently Learning: Computer Science fundamentals, Framer Motion, Introduction to AI
  
 📫 Let's connect
 --
