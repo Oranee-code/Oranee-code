@@ -14,11 +14,12 @@
 
 •	Tools: GitHub, RESTful APIs, Vite, Vitest, Auth0
 
-•	Currently Learning: React Three Fiber, Three.js, Framer Motion, Introduction to AI, Computer Science fundamentals,
+•	Currently Learning: React Three Fiber, Three.js, Framer Motion, Introduction to AI, Computer Science fundamentals
+
+📫 Let's connect
+--
 
 
-  --
-📫 Let's connect 
 🖇️ [Linkedin](https://www.linkedin.com/in/oraneekasem/)  
 ✉️ oranee.ks99@gmail.com
 
