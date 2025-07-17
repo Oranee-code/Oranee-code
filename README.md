@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Oranee a Full-Stack Devoloper based in Wellington, New Zealand 🇳🇿
 
-🌟
+🌟 
+
+🛠️ Tech 
 --
-🛠️ Tech Stack & Skills
+•	Languages: JavaScript, TypeScript
 
-•	Languages: TypeScript, JavaScript
+•	Front-End: HTML5, React.js
 
-•	Front-End: React.js, HTML5
+•	Back-End: Express, Knex.js, Node.js, PostgreSQL, SQLite3
+ 
+•	Styling: CSS, SCSS, Tailwind CSS
 
-•	Back-End: Node.js, Express, Knex.js, PostgreSQL, SQLite3
+•	Tools: Auth0, GitHub, RESTful APIs, Vite, Vitest
 
-•	Styling: Tailwind CSS, SCSS, CSS
-
-•	Tools: GitHub, RESTful APIs, Vite, Vitest, Auth0
-
-•	Currently Learning: React Three Fiber, Three.js, Framer Motion, Introduction to AI, Computer Science fundamentals
-
+•	Currently Learning: Computer Science fundamentals, Framer Motion, Introduction to AI, React Three Fiber, Three.js
+ 
 📫 Let's connect
 --
 
