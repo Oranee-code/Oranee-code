@@ -3,12 +3,18 @@
 🌟
 --
 🛠️ Tech Stack & Skills
-	•	Languages: TypeScript, JavaScript
-	•	Front-End: React.js, HTML5
-	•	Back-End: Node.js, Express, Knex.js, PostgreSQL, SQLite3
-	•	Styling: Tailwind CSS, SCSS, CSS
-	•	Tools: GitHub, RESTful APIs, Vite, Vitest, Auth0
-	•	Currently Learning: React Three Fiber, Three.js, Framer Motion, Introduction to AI, Computer Science fundamentals,
+
+•	Languages: TypeScript, JavaScript
+
+•	Front-End: React.js, HTML5
+
+•	Back-End: Node.js, Express, Knex.js, PostgreSQL, SQLite3
+
+•	Styling: Tailwind CSS, SCSS, CSS
+
+•	Tools: GitHub, RESTful APIs, Vite, Vitest, Auth0
+
+•	Currently Learning: React Three Fiber, Three.js, Framer Motion, Introduction to AI, Computer Science fundamentals,
 
 
   --
