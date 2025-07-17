@@ -19,7 +19,7 @@
 
   --
 📫 Let's connect 
-🖇️ https://www.linkedin.com/in/oraneekasem/    
+🖇️ [Linkedin](https://www.linkedin.com/in/oraneekasem/)  
 ✉️ oranee.ks99@gmail.com
 
 
