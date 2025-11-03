@@ -16,14 +16,18 @@ Where I discovered how much I enjoy building creative and user-friendly web appl
 
 •	Tools: Auth0, GitHub, RESTful APIs, Vite, Vitest
 
-•	Currently Learning: Computer Science fundamentals, Framer Motion, Introduction to AI
+•	AWS : Cloud Foundations, Cloud Architecing 
+
+•	Currently Learning: Diploma in Cloud computing & Cybersecurity (IT Infrastructure)
  
 📫 Let's connect
 --
 
 
 🖇️ [Linkedin](https://www.linkedin.com/in/oraneekasem/)  
-💼 https://oraneekasem.onrender.com
+
+💼 [Portfolio](https://oraneekasem.onrender.com)
+
 ✉️ oranee.ks99@gmail.com
 
-📍 Wellington, New Zealand 🇳🇿  |  Remote
+📍 Wellington, New Zealand 🇳🇿  |  Remote | Open to relocated 
