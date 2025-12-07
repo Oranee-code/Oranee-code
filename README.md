@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Oranee a Full-Stack Devoloper 
 
-🌟 I recently completed a full stack devolopment bootcamp at Dev Academy
-
-Where I discovered how much I enjoy building creative and user-friendly web applications that make an impact.
 
 🛠️ Tech 
 --
