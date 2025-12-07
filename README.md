@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Oranee a Full-Stack Devoloper 
-
+•	Currently Learning: Diploma in Cloud computing & Cybersecurity (IT Infrastructure)
+ 
+•	AWS : Cloud Foundations, Cloud Architecing 
 
 🛠️ Tech 
 --
@@ -13,9 +15,7 @@
 
 •	Tools: Auth0, GitHub, RESTful APIs, Vite, Vitest
 
-•	AWS : Cloud Foundations, Cloud Architecing 
 
-•	Currently Learning: Diploma in Cloud computing & Cybersecurity (IT Infrastructure)
  
 📫 Let's connect
 --
